@@ -1,5 +1,5 @@
 {
-  "name": "sooniter-lib-template",
+  "name": "[name]",
   "type": "module",
   "version": "1.0.0",
   "packageManager": "pnpm@7.5.0",
@@ -9,17 +9,17 @@
     "email": "1730214056@qq.com"
   },
   "license": "MIT",
-  "repository": "https://github.com/SoonIter/sooniter-lib-template",
+  "repository": "https://github.com/SoonIter/[name]",
   "bugs": {
-    "url": "https://github.com/SoonIter/sooniter-lib-template/issues"
+    "url": "https://github.com/SoonIter/[name]/issues"
   },
   "keywords": [
     "react",
     "usePagination",
     "vue"
   ],
-  "main": "dist/react/usePagination.js",
-  "types": "dist/react/usePagination.d.ts",
+  "main": "dist/[name]",
+  "types": "dist/[name]",
   "files": [
     "dist",
     "package.json",
